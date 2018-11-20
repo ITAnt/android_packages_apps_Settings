@@ -3372,7 +3372,7 @@
 
         <activity android:name="Settings$DevilianSettingsActivity"
             android:label="@string/devilian_settings_title"
-            android:icon="@drawable/ic_settings_devilian"
+            android:icon="@drawable/ic_deviliansettings"
             android:taskAffinity="">
             <intent-filter android:priority="1">
                 <action android:name="devilian.settings.DevilianSettings" />
